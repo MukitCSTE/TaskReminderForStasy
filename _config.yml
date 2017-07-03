@@ -2,7 +2,7 @@ title: Taskreminderforstasy.GitHub.io
 description: A simple task reminder app. Have designded for my friend stasy.
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-midnight
+theme: jekyll-theme-architect
 
 gems:
   - jekyll-mentions
