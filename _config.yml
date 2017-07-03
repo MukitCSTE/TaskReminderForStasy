@@ -1,7 +1,7 @@
-title: Taskreminderforstasy.GitHub.io
-description: A simple task reminder app. Have designded for my friend stasy.
+title: TaskReminderForStasy
+description: A simple task reminder app for my Russian Client named Stasy.
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-architect
 
 gems:
