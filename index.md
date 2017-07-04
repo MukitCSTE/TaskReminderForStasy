@@ -1,4 +1,4 @@
-### Hey Stasy!!
+### Hey Stasy !!
 Finally I have finished the Android App design for you . Hope it will help you a lot to avoid procrastinating .  
 
 ### APP UI & GUIDE to use:
